@@ -1,6 +1,6 @@
 
 # ----------- F i z z B u z z  G a m e ----------#
-+++++
+++++++
 
 FizzBuzz = input('Type a number: ')
 
